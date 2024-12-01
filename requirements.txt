@@ -1,0 +1,20 @@
+# Python version
+# python==3.9.18
+
+# FastAPI and related dependencies
+fastapi==0.95.1
+uvicorn==0.22.0
+
+# Torch and torchvision
+torch==1.13.1
+torchvision==0.14.1
+typing-extensions==4.6.3  # Sometimes required for compatibility with PyTorch
+
+# Image processing
+Pillow==9.4.0
+opencv-python-headless==4.7.0.72
+
+# Other dependencies
+numpy==1.23.5
+matplotlib==3.6.3
+python-multipart
